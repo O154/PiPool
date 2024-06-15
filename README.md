@@ -33,4 +33,4 @@ npm -v # should print `10.7.0`
 
 To run application 
 Go inside folder
-npm start
+run the command - npm start
